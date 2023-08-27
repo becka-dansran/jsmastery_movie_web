@@ -1,3 +1,6 @@
+![Screenshot]([screenshot.png](https://github.com/naran-batjargal/jsmastery_movie_web/blob/main/Screen%20Shot%202023-08-27%20at%205.34.24%20PM.png))
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
